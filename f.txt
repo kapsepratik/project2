@@ -1,0 +1,2 @@
+hi git
+this line is added from project2  
