@@ -13,3 +13,7 @@
 - From there, create a new branch and add 2 more new files then merging it to master branch again. ( Show the command)
 - Ask any 2 Peers of the group to pull the content for your URL ( you show how to pull for other Peers)
 - Add Screen shot from step1 to step4 ( load it as PDF)
+
+## Authors
+
+- Pratik kapse
